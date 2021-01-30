@@ -1,0 +1,9 @@
+gensim==3.8.0
+jupyter
+Keras==2.2.5
+matplotlib
+nltk
+numpy
+python-decouple
+sklearn
+tensorflow==1.15.2

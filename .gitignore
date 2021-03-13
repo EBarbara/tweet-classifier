@@ -127,3 +127,23 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Vscode data
+.vscode/*
+
+# Intermediary Data generated
+# Parallel studies
+Parallel/*
+
+# Datasets
+dataset/Merged_classified/*
+
+# Graphs
+graphs/*
+
+# Intermediary results
+results/*
+
+# Models saved
+Models/*.pickle
+Models/*.hdf5

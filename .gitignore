@@ -137,6 +137,8 @@ Parallel/*
 
 # Datasets
 dataset/Merged_classified/*
+dataset/Labelled/*.txt
+dataset/Labelled/*.docx
 
 # Graphs
 graphs/*
